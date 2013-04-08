@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="578" measuredH="349" mockupW="76" mockupH="24">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="502" y="325" w="-1" h="-1" measuredW="76" measuredH="24" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Access</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

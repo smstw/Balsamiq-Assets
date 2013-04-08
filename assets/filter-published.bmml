@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="672" measuredH="386" mockupW="89" mockupH="24">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="583" y="362" w="-1" h="-1" measuredW="89" measuredH="24" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Published</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

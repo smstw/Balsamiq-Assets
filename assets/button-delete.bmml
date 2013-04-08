@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="383" measuredH="332" mockupW="48" mockupH="70">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="335" y="262" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledMinusIcon%7Clarge</icon>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="655" measuredH="346" mockupW="166" mockupH="30">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::ButtonBar" x="489" y="316" w="-1" h="-1" measuredW="166" measuredH="30" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>One%2C%20Two%2C%20Three</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

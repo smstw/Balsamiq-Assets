@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="392" measuredH="291" mockupW="48" mockupH="70">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="344" y="221" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>Trash2Icon%7Clarge</icon>
+        <text>Trash</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
