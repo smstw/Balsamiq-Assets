@@ -1,4 +1,4 @@
-# ASIKART Balsamiq Example UI Assets
+# SMS Taiwan Balsamiq Example UI Assets
 -----------------------------------------------------------
 
 將 assets 資料夾放在 Balsamiq 專案目錄下面，就會自動抓取。
